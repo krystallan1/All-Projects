@@ -6,4 +6,4 @@ Including internship, research, personal, and school projects!
 3. Bioelectricity project codes
 4. RSA?
 
-View my [LinkedIn profile](www.linkedin.com/in/krystallan) and connect with me!
+View my [LinkedIn profile](https://www.linkedin.com/in/krystallan/) and connect with me!

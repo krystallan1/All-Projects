@@ -1,4 +1,4 @@
-s# All-Projects
+# All-Projects
 Including internship, research, personal, and school projects!
 
 1. R&D code 1 and 2

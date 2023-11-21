@@ -1,8 +1,8 @@
 % Code written by Krystal Lan
 % November 2023
 
-% Goal: process data obtained from Particle Image Velocimetry and plot
-% velocity vectors after eliminating all outliers
+% Goal: process data obtained from Particle Image Velocimetry of an airfoil
+% and plot velocity vectors after eliminating all outliers
 
 % Clear the MATLAB workspace and close existing figures
 clc

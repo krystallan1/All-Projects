@@ -1,3 +1,11 @@
+# Code written by Krystal Lan
+# R&D Intern @ Apex Skating Inc.
+# Summer 2023
+
+# Purpose: Parse data from pressure insoles for left and right heel, midfoot, metatarsals, and toes
+# Specify the player's Motion Capture data file to use in the "file_path" variable
+# Change the variables for the number of frames and sensels as needed 
+
 import csv
 import numpy as np
 

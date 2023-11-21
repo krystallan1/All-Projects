@@ -1,5 +1,5 @@
-% Krystal Lan
-% Fluids Lab 4 MATLAB code
+% Code written by Krystal Lan
+% November 2023
 
 % Goal: process data obtained from Particle Image Velocimetry and plot
 % velocity vectors after eliminating all outliers
